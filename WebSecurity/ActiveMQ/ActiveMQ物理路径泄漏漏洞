@@ -1,3 +1,4 @@
+ActiveMQ物理路径泄漏漏洞
 一、漏洞简介
 
 ActiveMQ默认开启PUT请求，当开启PUT时，构造好Payload(即不存在的目录)，Response会返回相应的物理路径信息
