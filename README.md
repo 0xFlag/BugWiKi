@@ -1,1 +1,1 @@
-# BugWIKI
+# BugWiKi
