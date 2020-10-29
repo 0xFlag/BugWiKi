@@ -5,4 +5,4 @@
 <p>apache-activemq-5.14.0 to apache-activemq-5.14.5</p>
 <p>apache-activemq-5.15.0 to apache-activemq-5.15.2</p>
 <h2>三、复现过程</h2>
-![image](https://github.com/0xFlag/BugWiKi/blob/main/WebSecurity/ActiveMQ/images/rId1.png)
+<img src="https://github.com/0xFlag/BugWiKi/blob/main/WebSecurity/ActiveMQ/images/rId1.png"/>
