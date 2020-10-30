@@ -47,3 +47,13 @@ https://www.0-sec.org/data/upload/avatar/1910/21/9aaa3653bf6ec9491bc002b52521962
 保存该图片用文本打开就是 db.php 的内容。
 
 ### PS:
+使用post提交，参数如下
+
+5.png
+
+在Header可获取到时间戳
+
+6.png
+
+### 可能会遇到的问题
+### post数据返回unicode编码
