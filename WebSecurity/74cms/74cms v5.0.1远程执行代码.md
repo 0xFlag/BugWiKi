@@ -7,4 +7,4 @@
 
 ## 三、复现过程
 ### 漏洞分析
-![image](images/1.png)
+![image](images/img1.png)
